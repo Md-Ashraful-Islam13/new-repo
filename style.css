@@ -1,0 +1,31 @@
+        header{
+            font-size: 30px;
+            color: brown;
+        }
+        .pragraph{
+            text-align: justify;
+        }
+        .head{
+            text-align: center;
+        }
+        .blog-title{
+            text-align: center;
+        }
+       .travle {
+            background-color: darkcyan;
+            color: floralwhite;
+            border: 5px solid #64401e;
+            border-radius: 15px;
+            margin: 10px;
+            padding: 10px;
+}
+        .author{
+            color: rgba(236, 233, 239, 0.415);
+        }
+        .akuthor-name{
+            color: rgba(237, 146, 173, 0.524);
+        }
+        .habijabi{
+            font-size: 30px;
+            color: darkred;
+        }
